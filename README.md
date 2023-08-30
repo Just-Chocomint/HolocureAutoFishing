@@ -14,4 +14,5 @@ Shift + O Get mouse coords to adjust the code
 Adjust the coords in Line 47 - 51 to suit your res (im using 1920x1080)  
 You can use the shift+o command to get your mouse coordinates  
 Might take some adjusting to find the right spot. 
-![alt text](./images/up.jpg?raw=true)
+![alt text](./images/up.png?raw=true)
+![plot](./images/up.png)
