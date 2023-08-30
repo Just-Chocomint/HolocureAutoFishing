@@ -1,5 +1,5 @@
 # HolocureAutoFishing
-Fish while AFK. The script aint that good, but it does the job, average around 90 combo before breaking.
+Fish while AFK. The script aint that good, but it does the job, average around 90 combo before breaking (depends on the coord configurations).
 
 ## **Stuff to install**
 > **pip install pyautogui keyboard**
