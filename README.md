@@ -11,7 +11,7 @@ Shift + P Start the fishing script
 Shift + O Get mouse coords to adjust the code
 
 ## **Setup**
-Adjust the coords in Line 47 - 51 to suit your res (im using 1920x1080)  
+Adjust the coords in Line 46 - 50 to suit your res (im using 1920x1080)  
 You can use the shift+o command to get your mouse coordinates  
 Might take some adjusting to find the right spot.  
 ![alt text](./images/up.png?raw=true)
