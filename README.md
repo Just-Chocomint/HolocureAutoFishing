@@ -5,6 +5,7 @@ Fish while AFK. The script aint that good, but it does the job, average around 9
 > **pip install pyautogui keyboard**
 
 ## **Usage**
+Fullscreen the game  
 Shift + P Start the fishing script  
 Shift + O Get mouse coords to adjust the code
 
