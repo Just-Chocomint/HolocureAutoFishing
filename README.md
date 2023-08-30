@@ -21,4 +21,4 @@ Might take some adjusting to find the right spot.
 ![alt text](./images/left.png?raw=true)
 ![alt text](./images/right.png?raw=true)
 ![alt text](./images/space.png?raw=true)  
-When the speed is too fast, sometimes it wont detect that the pixel changed color, to solve this, try to put the y axis on the places that i have highlighted. This will greatly improve the efficiency
+When the speed is too fast, sometimes it wont detect that the pixel changed color, to solve this, try to put the y axis on the places that i have highlighted cos theres more surface area there.
