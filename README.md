@@ -1,0 +1,2 @@
+# HolocureAutoFishing
+Fish while AFK
