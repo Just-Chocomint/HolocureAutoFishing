@@ -7,8 +7,10 @@ Presses input when detect the color outline of the arrows when they enter the ci
 
 ## **Usage**
 Fullscreen the game  
-Shift + P Start the fishing script  
-Shift + O Get mouse coords to adjust the code
+Run main.py  
+`Shift + P` Start the fishing script  
+`Shift + O` Get mouse coords to adjust the code  
+`Esc` to stop the code
 
 ## **Setup**
 Adjust the coords in Line 46 - 50 to suit your res (im using 1920x1080)  
