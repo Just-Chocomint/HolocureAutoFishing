@@ -1,5 +1,5 @@
 # HolocureAutoFishing
-Fish while AFK. The script aint that good, but it does the job, average around 100 combo before breaking (depends on the coord configurations).  
+Fish while AFK. The script not perfect, but it does the job, average around 100 combo before breaking (depends on your coord configurations).  
 Presses input when detect the color outline of the arrows when they enter the circle.
 
 ## **Stuff to install**
